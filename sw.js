@@ -43,15 +43,15 @@ self.__precacheManifest = [
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "bf463cf49be3c2334b6ae3078c4e95fd"
+    "revision": "8c6cb0e4ce824cb330e0c1f54ad1e24e"
   },
   {
     "url": "google-fonts/s/archivoblack/v9/HTxqL289NzCGg4MzN6KJ7eW6CYyF_g.woff2",
     "revision": "e4049dd27887a2106b4fe4af2f87775e"
   },
   {
-    "url": "google-fonts/s/questrial/v9/QdVUSTchPBm7nuUeVf70viFl.woff2",
-    "revision": "d7cfa042f25e95e221f73fa59e7d4a9d"
+    "url": "google-fonts/s/questrial/v10/QdVUSTchPBm7nuUeVf70viFl.woff2",
+    "revision": "2ea0e6cca0bc8fb45c14b951a0df0022"
   },
   {
     "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-e471e64c5d9057852cd8.js"
